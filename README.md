@@ -9,9 +9,17 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
-### Full Stack Projects
+### My Projects
 
 [![Restaurant-Management-System](https://img.shields.io/badge/Restuarant--Management--System-000?)](https://github.com/Jackrohan003/Restaurant-Management-System)
 [![Product-Rental-and-Exchange](https://img.shields.io/badge/Product--Rental--and--Exchange-000?)](https://github.com/Jackrohan003/Product-Rental-and-Exchange)
 [![DA_Utilities](https://img.shields.io/badge/DA_Utilities-000?)](https://github.com/Jackrohan003/DA_Utilities)
 [![MailSender-RabbitMQ](https://img.shields.io/badge/MailSender--RabbitMQ-000?)](https://github.com/Jackrohan003/MailSender)
+
+
+### Connect with me:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackrohan003)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jackrohan003)
+
+
+
